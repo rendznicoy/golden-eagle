@@ -22,6 +22,11 @@ and password.
 **Output:**
 *  The sign up form is submitted and the credentials will undergovalidation.
 
+**Data Dictionary**
+| Element ID | Element Text      | Element Type | Data Type                | Required?          | Rules         |
+|----------|------------|-------------------|----------------------------|-------------------------|----------------------|
+| SignUpButton      | ...        | ...               | ...               | ...               | ...               |    
+
 # [Revisions](https://github.com/rendznicoy/golden-eagle/blob/main/REVISIONS.md)
 
 # [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/HOMEPAGE.md)
