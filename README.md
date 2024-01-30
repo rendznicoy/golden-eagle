@@ -7,7 +7,7 @@ Target: GE.000.000
 <div style="display: flex;">
     <div style="width: 25%; padding-right: 10px;">
         <hr style="float: left; width: 1px; height: 100%; margin: 0; border: none; border-right: 1px solid #ccc;">
-        <a style="color: #0969DA"><b>[Revisions](main/REVISIONS.md)</b></a>
+        <a style="color: #0969DA"><b>[Revisions](REVISIONS.md)</b></a>
         <p></p>
         <p style="color: #0969DA"><b>Site Map</b></p>
         <a style="color: #0969DA">Homepage</a>
