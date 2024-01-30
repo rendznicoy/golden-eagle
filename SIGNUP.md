@@ -8,7 +8,7 @@ _______________________________________
 
 # [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob/main/SIGNUP.md)
 **Sign Up Feature Preview**
-![SignUp](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/.png)
+![SignUp](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/SignUp Mockup.png)
 
 # [Login Feature](https://github.com/rendznicoy/golden-eagle/blob/main/LOGIN.md)
 
