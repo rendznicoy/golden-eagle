@@ -5,8 +5,8 @@ _______________________________________
 # [Revisions](https://github.com/rendznicoy/golden-eagle/edit/main/REVISIONS.md)
 
 # [Homepage](https://github.com/rendznicoy/golden-eagle/edit/main/HOMEPAGE.md)
-Homepage Preview
-
+**Homepage Preview**
+![Homepage Preview](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/Mockup.png)
 
 # [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/edit/main/SIGNUP.md)
 
