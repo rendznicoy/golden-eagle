@@ -25,13 +25,13 @@ This is used to allow users to upload the image.
 | UploadButton      | Upload        | Button               | ...               | Yes               | To upload an image, the user must be logged in               | 
 | ImageUpload      | Image Upload       | File Upload               | Image File               | Yes               | Select an aerial view image for classification               |
 
-# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
-
 # [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/REVISIONS.md)
 
 # [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/HOMEPAGE.md)
 
 # [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob//main/SIGNUP.md)
+
+# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
 
 # [Download Feature](https://github.com/rendznicoy/golden-eagle/blob//main/DOWNLOAD.md)
 
