@@ -2,16 +2,16 @@
 ### A Web App with an automated GIS classification system underpinned by Region-based Convolutional Neural Network
 ### Target:  GE.A00.0
 _______________________________________
-# [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/HOMEPAGE.md)
+# [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/Details/HOMEPAGE.md)
 **Homepage Preview**
 ![Homepage Preview](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/Mockup.png)
 
-# [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/REVISIONS.md)
+# [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/Details/REVISIONS.md)
 
-# [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob//main/SIGNUP.md)
+# [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/SIGNUP.md)
 
-# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
+# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/LOGIN.md)
 
-# [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/UPLOAD.md)
+# [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/UPLOAD.md)
 
-# [Download Feature](https://github.com/rendznicoy/golden-eagle/blob//main/DOWNLOAD.md)
+# [Download Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/DOWNLOAD.md)
