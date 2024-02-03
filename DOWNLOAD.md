@@ -4,26 +4,28 @@
 _______________________________________
 # [Download Feature](https://github.com/rendznicoy/golden-eagle/blob//main/DOWNLOAD.md)
 **Download Feature Preview**
-![Download](Mockups/Mockup.png)
-**Upload**
 
-This is used to allow users to upload the image.
+![Download](Mockups/Download%20Mockup.png)
+
+**Download**
+
+This is used to download the newly generated map. 
 
 **Input:**
-* The user shall select an image from a folder.
+* The user shall select a folder to download the newly generated map.
   
 **Process:**
-+ The user shall select an image from a folder.
-- The user uploads the image.
++ The user shall download the newly generated map.
+- The user shall select a folder to save the newly generated map.
 
 **Output:**
-*  The image is validated and the user is prompted with the result.
+*  The newly generated map is saved in the user’s preferred location.
 
 **Data Dictionary**
 | Element ID | Element Text      | Element Type | Data Type                | Required?          | Rules         |
 |----------|------------|-------------------|----------------------------|-------------------------|----------------------|
-| UploadButton      | Upload        | Button               | ...               | Yes               | To upload an image, the user must be logged in               | 
-| ImageUpload      | Image Upload       | File Upload               | Image File               | Yes               | Select an aerial view image for classification               |
+| DownloadButton     | Download        | Button               | ...               | Yes               | To download the image, the user must be logged in               | 
+| ImageDownload      | Image Download       | File Download               | Image File               | Yes               | To download the image, the user must be logged in               |
 
 # [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/UPLOAD.md)
 
