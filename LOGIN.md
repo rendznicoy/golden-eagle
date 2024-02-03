@@ -3,7 +3,8 @@
 ### Target:  GE.A00.0
 _______________________________________
 # [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
-![LOGIN](Mockups/Login%2Mockup.png)
+![LOGIN](Mockups/Login%20Mockup.png)
+
 
 # [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/REVISIONS.md)
 
