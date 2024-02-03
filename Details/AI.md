@@ -5,7 +5,7 @@ _______________________________________
 # [AI](https://github.com/rendznicoy/golden-eagle/edit/main/Details/AI.md)
 **CNN Architecture**
 
-![AI](Mockups/CNN%20Architecture.png)
+![AI](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/CNN%20Architecture.png)
 
 **Image Classification Feature**
 
