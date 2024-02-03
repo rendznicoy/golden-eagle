@@ -3,7 +3,29 @@
 ### Target:  GE.A00.0
 _______________________________________
 # [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
-![LOGIN](Mockups/Login%20Mockup.png)
+**Login Feature Preview**
+![Login](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/SignUp%20Mockup.png)
+**Login**
+
+This is used to login users with existing accounts and access the upload button.
+
+**Input:**
+* The user shall submit the login form with their credentials.
+  
+**Process:**
++ The initiation of the data entry process will be done by the user.
+- The system shall provide fields for the user to input their email and password.
+
+**Output:**
+*  The credentials are validated and the user is prompted with the result.
+
+**Data Dictionary**
+| Element ID | Element Text      | Element Type | Data Type                | Required?          | Rules         |
+|----------|------------|-------------------|----------------------------|-------------------------|----------------------|
+| LoginUsername      | Username        | Text               | Text               | Yes               | ...               | 
+| LoginPassword      | Password       | Password               | Text               | Yes               | Masked               |
+| LoginInvalidUsername     | Invalid username and password        | Text               | ...               | ...               | Hidden               |
+| LoginForgotPassword      | Forgot your password?        | Link               | ...               | ...               | Hidden               |
 
 
 # [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/REVISIONS.md)
