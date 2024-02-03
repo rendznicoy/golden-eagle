@@ -25,7 +25,8 @@ and password.
 **Data Dictionary**
 | Element ID | Element Text      | Element Type | Data Type                | Required?          | Rules         |
 |----------|------------|-------------------|----------------------------|-------------------------|----------------------|
-| SignUpButton      | ...        | ...               | ...               | ...               | ...               |    
+| SignUpButton      | Sign up        | Button               | ...               | ...               | ...               | 
+| SignUp      | Create a new account        | Link               | ...               | ...               | ...               |
 
 # [Revisions](https://github.com/rendznicoy/golden-eagle/blob/main/REVISIONS.md)
 
