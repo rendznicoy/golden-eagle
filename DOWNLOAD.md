@@ -27,15 +27,16 @@ This is used to download the newly generated map.
 | DownloadButton     | Download        | Button               | ...               | Yes               | To download the image, the user must be logged in               | 
 | ImageDownload      | Image Download       | File Download               | Image File               | Yes               | To download the image, the user must be logged in               |
 
-# [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/UPLOAD.md)
-
-# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
-
 # [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/REVISIONS.md)
 
 # [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/HOMEPAGE.md)
 
 # [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob//main/SIGNUP.md)
 
+# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
+
+# [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/UPLOAD.md)
+
+# [AI](https://github.com/rendznicoy/golden-eagle/edit/main/AI.md)
 
 
