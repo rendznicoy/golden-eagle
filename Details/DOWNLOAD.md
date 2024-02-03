@@ -5,7 +5,7 @@ _______________________________________
 # [Download Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/DOWNLOAD.md)
 **Download Feature Preview**
 
-![Download](Mockups/Download%20Mockup.png)
+![Download](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/Download%20Mockup.png)
 
 **Download**
 
