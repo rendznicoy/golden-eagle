@@ -2,15 +2,14 @@
 ### A Web App with an automated GIS classification system underpinned by Region-based Convolutional Neural Network
 ### Target:  GE.A00.0
 _______________________________________
+# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
+![LOGIN](Mockups/Login%2Mockup.png)
+
 # [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/REVISIONS.md)
 
 # [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/HOMEPAGE.md)
-**Homepage Preview**
-![Homepage Preview](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/Mockup.png)
 
 # [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob//main/SIGNUP.md)
-
-# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
 
 # [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/UPLOAD.md)
 
