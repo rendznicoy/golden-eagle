@@ -9,3 +9,39 @@ html {
 head {
     display : none;
 }
+
+body {
+    font-size: 18px;
+    line-height: 22px;
+    font-family: Graphik, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 400;
+    direction: ltr;
+    font-variant-numeric: lining-nums;
+    font-feature-settings: "lnum" 1;
+    background: #f5f5fa;
+    color: #47474f;
+    margin: 0;
+    display: block;
+}
+
+.header {
+    background: #498740;
+    width: 100%;
+    height: 60px;
+    z-index: 1041;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    box-shadow: 0 3px 6px 0 rgba(50,50,50,.3);
+    padding: 0 24px;
+}
+
+.header nav {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    height: 60px;
+}
+
