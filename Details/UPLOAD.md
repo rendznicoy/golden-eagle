@@ -2,9 +2,9 @@
 ### A Web App with an automated GIS classification system underpinned by Region-based Convolutional Neural Network
 ### Target:  GE.A00.0
 _______________________________________
-# [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/UPLOAD.md)
+# [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/UPLOAD.md)
 **Upload Feature Preview**
-![Homepage](Mockups/Mockup.png)
+![Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/Mockup.png)
 **Upload**
 
 This is used to allow users to upload the image.
@@ -25,13 +25,13 @@ This is used to allow users to upload the image.
 | UploadButton      | Upload        | Button               | ...               | Yes               | To upload an image, the user must be logged in               | 
 | ImageUpload      | Image Upload       | File Upload               | Image File               | Yes               | Select an aerial view image for classification               |
 
-# [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/REVISIONS.md)
+# [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/Details/REVISIONS.md)
 
-# [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/HOMEPAGE.md)
+# [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/Details/HOMEPAGE.md)
 
-# [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob//main/SIGNUP.md)
+# [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/SIGNUP.md)
 
-# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
+# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/LOGIN.md)
 
-# [Download Feature](https://github.com/rendznicoy/golden-eagle/blob//main/DOWNLOAD.md)
+# [Download Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/DOWNLOAD.md)
 

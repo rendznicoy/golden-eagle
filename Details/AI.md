@@ -2,10 +2,10 @@
 ### A Web App with an automated GIS classification system underpinned by Region-based Convolutional Neural Network
 ### Target:  GE.A00.0
 _______________________________________
-# [AI](https://github.com/rendznicoy/golden-eagle/edit/main/AI.md)
+# [AI](https://github.com/rendznicoy/golden-eagle/edit/main/Details/AI.md)
 **CNN Architecture**
 
-![AI](Mockups/CNN%20Architecture.png)
+![AI](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/CNN%20Architecture.png)
 
 **Image Classification Feature**
 
@@ -57,14 +57,15 @@ _______________________________________
 |----------|------------|-------------------|----------------------------|-------------------------|----------------------|
 | ClassificationResults     | Land Type Classification Result       | Text               | Text               | ...              | ...               | 
 
-# [Download Feature](https://github.com/rendznicoy/golden-eagle/blob//main/DOWNLOAD.md)
+# [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/Details/REVISIONS.md)
 
-# [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/UPLOAD.md)
+# [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/Details/HOMEPAGE.md)
 
-# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/LOGIN.md)
+# [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/SIGNUP.md)
 
-# [Revisions](https://github.com/rendznicoy/golden-eagle/blob//main/REVISIONS.md)
+# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/LOGIN.md)
 
-# [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/HOMEPAGE.md)
+# [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/UPLOAD.md)
 
-# [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob//main/SIGNUP.md)
+# [Download Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/DOWNLOAD.md)
+
