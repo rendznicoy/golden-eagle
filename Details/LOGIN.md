@@ -38,3 +38,4 @@ This is used to login users with existing accounts and access the upload button.
 
 # [Download Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/DOWNLOAD.md)
 
+# [AI](https://github.com/rendznicoy/golden-eagle/blob/main/Details/AI.md)
