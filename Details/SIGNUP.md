@@ -37,3 +37,5 @@ and password.
 # [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/UPLOAD.md)
 
 # [Download Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/DOWNLOAD.md)
+
+# [AI](https://github.com/rendznicoy/golden-eagle/blob/main/Details/AI.md)
