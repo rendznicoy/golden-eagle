@@ -37,6 +37,6 @@ This is used to download the newly generated map.
 
 # [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/UPLOAD.md)
 
-# [AI][(https://github.com/rendznicoy/golden-eagle/blob/main/Details/AI.md)
+# [AI](https://github.com/rendznicoy/golden-eagle/blob/main/Details/AI.md)
 
 
