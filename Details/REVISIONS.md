@@ -6,6 +6,7 @@ _______________________________________
 | Revision Date       | Document Version | Description                | Tracking Notes          | Approved By          |
 |----------|-------------------|----------------------------|-------------------------|----------------------|
 | 2024-02-04      | v1.000               | First document version               | GE.000.000               | de los Reyes, Rene Angelo<br>*Project Manager* |
+| 2024-02-12      | v1.001               | Document design changes               | GE.000.001               | de los Reyes, Rene Angelo<br>*Project Manager* |
 
 ## Site Map
 
