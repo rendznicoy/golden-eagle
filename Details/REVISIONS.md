@@ -1,21 +1,25 @@
 # GIEASE (Golden Eagle)
-### A Web App with an automated GIS classification system underpinned by Region-based Convolutional Neural Network
-### Target:  GE.A00.001
-### Main Application Link: [Golden Eagle](https://github.com/rendznicoy/GoldenEagle)
+## A Web App with an automated GIS classification system underpinned by Region-based Convolutional Neural Network
+## Target:  GE.A00.001
 _______________________________________
 # [Revisions](https://github.com/rendznicoy/golden-eagle/blob/main/Details/REVISIONS.md)
 | Revision Date       | Document Version | Description                | Tracking Notes          | Approved By          |
 |----------|-------------------|----------------------------|-------------------------|----------------------|
 | 2024-02-04      | v1.000               | First document version               | GE.000.000               | de los Reyes, Rene Angelo<br>*Project Manager* |
 
-# [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/Details/HOMEPAGE.md)
+## Site Map
 
-# [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/SIGNUP.md)
+* ### [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/Details/HOMEPAGE.md)
 
-# [Login Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/LOGIN.md)
+* ### [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/SIGNUP.md)
 
-# [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/UPLOAD.md)
+* ### [Login Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/LOGIN.md)
 
-# [Download Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/DOWNLOAD.md)
+* ### [Upload Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/UPLOAD.md)
 
-# [AI](https://github.com/rendznicoy/golden-eagle/blob/main/Details/AI.md)
+* ### [Download Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/DOWNLOAD.md)
+
+* ### [AI](https://github.com/rendznicoy/golden-eagle/blob/main/Details/AI.md)
+
+* ### [Main Application Link](https://github.com/rendznicoy/GoldenEagle)
+
