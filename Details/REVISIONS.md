@@ -6,7 +6,7 @@ _______________________________________
 # [Revisions](https://github.com/rendznicoy/golden-eagle/blob/main/Details/REVISIONS.md)
 | Revision Date       | Document Version | Description                | Tracking Notes          | Approved By          |
 |----------|-------------------|----------------------------|-------------------------|----------------------|
-| 2024-02-04      | v1.000               | First document version               | GE.000.000               | de los Reyes, Rene Angelo<br>*Project Manager |
+| 2024-02-04      | v1.000               | First document version               | GE.000.000               | de los Reyes, Rene Angelo<br>*Project Manager* |
 
 # [Homepage](https://github.com/rendznicoy/golden-eagle/blob/main/Details/HOMEPAGE.md)
 
