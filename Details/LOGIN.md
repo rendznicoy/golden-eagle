@@ -5,6 +5,7 @@ _______________________________________
 # [Login Feature](https://github.com/rendznicoy/golden-eagle/blob//main/Details/LOGIN.md)
 **Login Feature Preview**
 ![Login](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/SignUp%20Mockup.png)
+## Description
 **Login**
 
 This is used to login users with existing accounts and access the upload button.
