@@ -7,6 +7,7 @@ _______________________________________
 
 ![AI](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/CNN%20Architecture.png)
 
+## Description
 **Image Classification Feature**
 
 * This feature is used to classify the land types and water bodies inside the image.
