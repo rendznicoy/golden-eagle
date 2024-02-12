@@ -5,6 +5,8 @@ _______________________________________
 # [Sign Up Feature](https://github.com/rendznicoy/golden-eagle/blob/main/Details/SIGNUP.md)
 **Sign Up Feature Preview**
 ![SignUp](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/SignUp%20Mockup.png)
+
+## Description
 **Sign Up**
 
 This is used to collect the user’s information and credentials foraccount creation. 
