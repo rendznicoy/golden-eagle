@@ -7,6 +7,7 @@ _______________________________________
 
 ![Download](https://github.com/rendznicoy/golden-eagle/blob/main/Mockups/Download%20Mockup.png)
 
+## Description
 **Download**
 
 This is used to download the newly generated map. 
