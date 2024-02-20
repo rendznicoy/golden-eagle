@@ -1,6 +1,6 @@
 # GIEASE (Golden Eagle)
 ## A Web App with an automated GIS classification system underpinned by Region-based Convolutional Neural Network
-## Target:  GE.A00.001
+## Target:  GE.A01.001
 _______________________________________
 ## Site Map
 * ### [Revisions](https://github.com/rendznicoy/golden-eagle/blob/main/Details/REVISIONS.md)
