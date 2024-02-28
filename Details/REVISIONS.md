@@ -7,6 +7,7 @@ _______________________________________
 |----------|-------------------|----------------------------|-------------------------|----------------------|
 | 2024-02-04      | v1.000               | First document version               | GE.010.001               | de los Reyes, Rene Angelo<br>*Project Manager* |
 | 2024-02-12      | v1.001               | Document design changes               | GE.010.002               | de los Reyes, Rene Angelo<br>*Project Manager* |
+| 2024-02-28      | v1.002               | Internal Release Code changes               | GE.010.003               | de los Reyes, Rene Angelo<br>*Project Manager* |
 
 ## Site Map
 
