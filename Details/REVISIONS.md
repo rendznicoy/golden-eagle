@@ -1,12 +1,12 @@
 # GIEASE (Golden Eagle)
 ## A Web App with an automated GIS classification system underpinned by Region-based Convolutional Neural Network
-## Target:  GE.A01.001
+## Target:  GE.A10.001
 _______________________________________
 # [Revisions](https://github.com/rendznicoy/golden-eagle/blob/main/Details/REVISIONS.md)
 | Revision Date       | Document Version | Description                | Tracking Notes          | Approved By          |
 |----------|-------------------|----------------------------|-------------------------|----------------------|
-| 2024-02-04      | v1.000               | First document version               | GE.001.001               | de los Reyes, Rene Angelo<br>*Project Manager* |
-| 2024-02-12      | v1.001               | Document design changes               | GE.001.002               | de los Reyes, Rene Angelo<br>*Project Manager* |
+| 2024-02-04      | v1.000               | First document version               | GE.010.001               | de los Reyes, Rene Angelo<br>*Project Manager* |
+| 2024-02-12      | v1.001               | Document design changes               | GE.010.002               | de los Reyes, Rene Angelo<br>*Project Manager* |
 
 ## Site Map
 
